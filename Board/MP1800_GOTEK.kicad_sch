@@ -6,8 +6,8 @@
 
   (title_block
     (title "Disk Interface for MP-1800/1805")
-    (date "2023-02-20")
-    (rev "0.2.2")
+    (date "2023-05-21")
+    (rev "0.2.3")
     (company "Designed by Sasaji 2023")
     (comment 1 "For HITACHI BASIC MASTER LEVEL3")
   )
